@@ -1,11 +1,34 @@
 body {
     background-image: url(https://brobible.com/wp-content/uploads/2021/09/chris-pratt-mario.png);
+    text-align: center;
+    background-size: 100%;
 }
 p {
+    background-image:url(https://i.pinimg.com/736x/e5/34/51/e53451cae41b1c9c8651ef64c9c924d6.jpg) ;
+    font-size:30px ;
+    
+
 color: rgb(255, 255, 255);
 }
+h1{
+    
+       font-size:100px ;
+}
+h2{
+    
+    
+    font-size: 50px ;
+}
+li{
 
+    text-align: left;
+    font-size: 30px ;
+}
+.titulo1{
+  background-image:url(https://i.pinimg.com/736x/e5/34/51/e53451cae41b1c9c8651ef64c9c924d6.jpg) ;
+  
+}
+.lista{
+    background-image: url(https://pbs.twimg.com/media/DP99BrDW0AAgvUt.jpg);
 
-
-
-
+}
